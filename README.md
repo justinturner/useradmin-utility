@@ -1,6 +1,9 @@
 # useradmin-utility
 This project is intended to use with Adobe Experience Manager. The tool will provide flexibility to provide reports which can be useful for user-management in AEM.
 
+Linked from:
+https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/can-i-retrieve-the-users-list-and-along-with-their-group-names/qaq-p/227804
+
 ```
 /**
  * Make sure you create a system user (using /crx/explorer) and give proper permissions to it. 
